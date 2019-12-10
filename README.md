@@ -16,5 +16,5 @@ The application calls a third party Amazon API to retrieve details about the pro
 ![commentedcode](https://lucasgigliozzi.com/wp-content/uploads/2019/11/commentedcode-768x425.png)
 Portion of commented code
 
-![commentedcode]https://lucasgigliozzi.com/wp-content/uploads/2019/11/unittests-1024x427.png)
+![unittests](https://lucasgigliozzi.com/wp-content/uploads/2019/11/unittests-1024x427.png)
 Some unit tests
