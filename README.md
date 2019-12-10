@@ -14,7 +14,7 @@ While this is a very simple application, I decided to create it in part due to i
 The application calls a third party Amazon API to retrieve details about the product the user entered, such as the name and price. The user must also input their phone number. With this number an instance of the client object is created from Twilio (a cloud communication API). When the user enters the time interval, this sets how often the application will call the Amazon API to determine if the price of the product is lower than when it was first called. If it was lower, then an instance of the Twilio client object is used to create a message which is sent to the users phone number. The interface is made using the Python library tkinter. 
 
 ![commentedcode](https://lucasgigliozzi.com/wp-content/uploads/2019/11/commentedcode-768x425.png)
-                Portion of commented code
+               &nbsp Portion of commented code
 
 ![unittests](https://lucasgigliozzi.com/wp-content/uploads/2019/11/unittests-1024x427.png)
 Some unit tests
