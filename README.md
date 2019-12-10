@@ -1,6 +1,6 @@
 # Amazon-PriceDrop
 Track an Amazon product price and receive a notification -- Python
-(https://lucasgigliozzi.com/wp-content/uploads/2019/11/amazonpricedrop-768x507.png)
+[pricedrop](https://lucasgigliozzi.com/wp-content/uploads/2019/11/amazonpricedrop-768x507.png)
 
 ### Description: 
 The Amazon Price Drop application tracks a user inputted product available on Amazon by checking the price of the product every x amount of minutes, where x is a value inputted by the user. If the price drops below its original price, then the application sends a text message to notify the user.
